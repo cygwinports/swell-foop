@@ -1,7 +1,7 @@
 inherit gnome2
 
 NAME="swell-foop"
-VERSION=3.24.0
+VERSION=3.26.0
 RELEASE=1
 CATEGORY="Games"
 SUMMARY="GNOME Same game"
